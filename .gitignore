@@ -1,0 +1,10 @@
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Office temp files
+~$*.docx
+~$*.pdf
