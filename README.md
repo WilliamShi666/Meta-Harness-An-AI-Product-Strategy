@@ -3,6 +3,8 @@
 > **Meta-Harness 产品战略计划书**
 >
 > A product strategy document on building the "production line generator" for the AI Agent era.
+>
+> 📖 **[中文版战略介绍与 Extract →](README_CN.md)**
 
 ## Repository Contents
 
